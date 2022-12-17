@@ -109,6 +109,7 @@ p{
 
 @media (max-width:600px) {
     .container{
+        margin-top: 25px;
         width: 85vw;
         height: 100vh;
         flex-direction: column;
